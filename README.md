@@ -11,3 +11,4 @@ Setup & Run
 ====
 * Run ASA logger using 'python asa_logger.py' or './asa_logger.py'
 * The shebang statement may need to be updated
+* Terminating the script can be accomplished using Ctrl+c or cmd+c
