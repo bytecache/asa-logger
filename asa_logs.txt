@@ -1,0 +1,199 @@
+6|Mar 29 2017 19:32:52|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:52|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:52|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:52|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:52|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:52|305011: Built dynamic UDP translation from inside:192.168.254.11/65532 to internet:98.115.253.36/65532
+6|Mar 29 2017 19:32:52|302015: Built outbound UDP connection 22853564 for internet:8.8.8.8/53 (8.8.8.8/53) to inside:192.168.254.11/65532 (98.115.253.36/65532)
+6|Mar 29 2017 19:32:52|305011: Built dynamic TCP translation from inside:192.168.254.11/60825 to internet:98.115.253.36/60825
+6|Mar 29 2017 19:32:52|302013: Built outbound TCP connection 22853565 for internet:31.13.71.1/443 (31.13.71.1/443) to inside:192.168.254.11/60825 (98.115.253.36/60825)
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/40648 to internet:98.115.253.36/40648 duration 0:07:02
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/53618 to internet:98.115.253.36/53618 duration 0:07:02
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/48960 to internet:98.115.253.36/48960 duration 0:07:52
+7|Mar 29 2017 19:32:53|609002: Teardown local-host internet:54.241.7.184 duration 0:10:36
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+7|Mar 29 2017 19:32:54|710005: TCP request discarded from 173.223.238.141/443 to internet:98.115.253.36/60822
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|305012: Teardown dynamic TCP translation from inside:192.168.254.3/59019 to internet:98.115.253.36/59019 duration 0:00:30
+6|Mar 29 2017 19:32:57|305011: Built dynamic TCP translation from inside:192.168.254.3/60922 to internet:98.115.253.36/60922
+6|Mar 29 2017 19:32:57|302013: Built outbound TCP connection 22853581 for internet:107.23.46.108/80 (107.23.46.108/80) to inside:192.168.254.3/60922 (98.115.253.36/60922)
+6|Mar 29 2017 19:32:57|302014: Teardown TCP connection 22853581 for internet:107.23.46.108/80 to inside:192.168.254.3/60922 duration 0:00:00 bytes 1043 TCP FINs
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:58|302013: Built inbound TCP connection 22853585 for inside:192.168.254.159/34448 (192.168.254.159/34448) to identity:192.168.255.1/22 (192.168.255.1/22)
+6|Mar 29 2017 19:32:58|302014: Teardown TCP connection 22853524 for internet:138.108.7.20/80 to inside:192.168.254.3/45527 duration 0:00:15 bytes 2774 TCP FINs
+6|Mar 29 2017 19:32:58|113012: AAA user authentication Successful : local database : user = chris
+6|Mar 29 2017 19:32:58|113008: AAA transaction status ACCEPT : user = chris
+6|Mar 29 2017 19:32:58|611101: User authentication succeeded: Uname: chris
+6|Mar 29 2017 19:32:58|611101: User authentication succeeded: Uname: chris
+6|Mar 29 2017 19:32:58|605005: Login permitted from 192.168.254.159/34448 to inside:192.168.255.1/ssh for user "chris"
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:59|302014: Teardown TCP connection 22853523 for internet:138.108.6.20/80 to inside:192.168.254.3/39420 duration 0:00:16 bytes 2187 TCP FINs
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|305012: Teardown dynamic ICMP translation from inside:192.168.254.5/918 to internet:98.115.253.36/918 duration 0:00:32
+6|Mar 29 2017 19:33:02|305012: Teardown dynamic TCP translation from inside:192.168.254.159/41046 to internet:98.115.253.36/41046 duration 0:00:31
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+5|Mar 29 2017 19:33:02|502103: User priv level changed: Uname: enable_15 From: 1 To: 15
+5|Mar 29 2017 19:33:02|111008: User 'chris' executed the 'enable' command.
+5|Mar 29 2017 19:33:02|111008: User 'enable_15' executed the 'terminal pager 0' command.
+5|Mar 29 2017 19:33:02|111010: User 'enable_15', running 'CLI' from IP 192.168.254.159, executed 'terminal pager 0'
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:03|302016: Teardown UDP connection 22853152 for internet:216.229.4.69/123 to inside:192.168.254.159/58427 duration 0:02:04 bytes 96
+6|Mar 29 2017 19:33:03|302016: Teardown UDP connection 22853159 for internet:204.9.54.119/123 to inside:192.168.254.159/50406 duration 0:02:02 bytes 966|Mar 29 2017 19:32:52|305011: Built dynamic TCP translation from inside:192.168.254.11/60825 to internet:98.115.253.36/60825
+6|Mar 29 2017 19:32:52|302013: Built outbound TCP connection 22853565 for internet:31.13.71.1/443 (31.13.71.1/443) to inside:192.168.254.11/60825 (98.115.253.36/60825)
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/40648 to internet:98.115.253.36/40648 duration 0:07:02
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/53618 to internet:98.115.253.36/53618 duration 0:07:02
+6|Mar 29 2017 19:32:53|305012: Teardown dynamic TCP translation from inside:192.168.254.159/48960 to internet:98.115.253.36/48960 duration 0:07:52
+7|Mar 29 2017 19:32:53|609002: Teardown local-host internet:54.241.7.184 duration 0:10:36
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:53|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:53|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:54|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:54|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+7|Mar 29 2017 19:32:54|710005: TCP request discarded from 173.223.238.141/443 to internet:98.115.253.36/60822
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:55|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:55|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:56|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:56|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:57|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:57|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:57|305012: Teardown dynamic TCP translation from inside:192.168.254.3/59019 to internet:98.115.253.36/59019 duration 0:00:30
+6|Mar 29 2017 19:32:57|305011: Built dynamic TCP translation from inside:192.168.254.3/60922 to internet:98.115.253.36/60922
+6|Mar 29 2017 19:32:57|302013: Built outbound TCP connection 22853581 for internet:107.23.46.108/80 (107.23.46.108/80) to inside:192.168.254.3/60922 (98.115.253.36/60922)
+6|Mar 29 2017 19:32:57|302014: Teardown TCP connection 22853581 for internet:107.23.46.108/80 to inside:192.168.254.3/60922 duration 0:00:00 bytes 1043 TCP FINs
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:58|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:58|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:58|302013: Built inbound TCP connection 22853585 for inside:192.168.254.159/34448 (192.168.254.159/34448) to identity:192.168.255.1/22 (192.168.255.1/22)
+6|Mar 29 2017 19:32:58|302014: Teardown TCP connection 22853524 for internet:138.108.7.20/80 to inside:192.168.254.3/45527 duration 0:00:15 bytes 2774 TCP FINs
+6|Mar 29 2017 19:32:58|113012: AAA user authentication Successful : local database : user = chris
+6|Mar 29 2017 19:32:58|113008: AAA transaction status ACCEPT : user = chris
+6|Mar 29 2017 19:32:58|611101: User authentication succeeded: Uname: chris
+6|Mar 29 2017 19:32:58|611101: User authentication succeeded: Uname: chris
+6|Mar 29 2017 19:32:58|605005: Login permitted from 192.168.254.159/34448 to inside:192.168.255.1/ssh for user "chris"
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:59|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:32:59|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:32:59|302014: Teardown TCP connection 22853523 for internet:138.108.6.20/80 to inside:192.168.254.3/39420 duration 0:00:16 bytes 2187 TCP FINs
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:00|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:00|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:01|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:01|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:01|305012: Teardown dynamic ICMP translation from inside:192.168.254.5/918 to internet:98.115.253.36/918 duration 0:00:32
+6|Mar 29 2017 19:33:02|305012: Teardown dynamic TCP translation from inside:192.168.254.159/41046 to internet:98.115.253.36/41046 duration 0:00:31
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:02|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:02|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+5|Mar 29 2017 19:33:02|502103: User priv level changed: Uname: enable_15 From: 1 To: 15
+5|Mar 29 2017 19:33:02|111008: User 'chris' executed the 'enable' command.
+5|Mar 29 2017 19:33:02|111008: User 'enable_15' executed the 'terminal pager 0' command.
+5|Mar 29 2017 19:33:02|111010: User 'enable_15', running 'CLI' from IP 192.168.254.159, executed 'terminal pager 0'
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:03|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:03|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:03|302016: Teardown UDP connection 22853152 for internet:216.229.4.69/123 to inside:192.168.254.159/58427 duration 0:02:04 bytes 96
+6|Mar 29 2017 19:33:03|302016: Teardown UDP connection 22853159 for internet:204.9.54.119/123 to inside:192.168.254.159/50406 duration 0:02:02 bytes 96
+7|Mar 29 2017 19:33:04|111009: User 'enable_15' executed cmd: show logging asdm
+6|Mar 29 2017 19:33:04|302020: Built outbound ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:04|302020: Built outbound ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:04|302020: Built outbound ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
+6|Mar 29 2017 19:33:04|302021: Teardown ICMP connection for faddr 67.216.70.100/0 gaddr 98.115.253.36/28899 laddr 192.168.254.5/28899
+6|Mar 29 2017 19:33:04|302021: Teardown ICMP connection for faddr 8.8.8.8/0 gaddr 98.115.253.36/28900 laddr 192.168.254.5/28900
+6|Mar 29 2017 19:33:04|302021: Teardown ICMP connection for faddr 84.207.217.254/0 gaddr 98.115.253.36/28901 laddr 192.168.254.5/28901
